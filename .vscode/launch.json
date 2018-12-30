@@ -1,0 +1,144 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Visitor_Pattern.Main",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StrategyExample",
+            "request": "launch",
+            "mainClass": "Strategy_Pattern.SP2.StrategyExample",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StrategyMain",
+            "request": "launch",
+            "mainClass": "Strategy_Pattern.SP1.StrategyMain",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestClientState",
+            "request": "launch",
+            "mainClass": "State_Pattern.TestClientState",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProxyExample",
+            "request": "launch",
+            "mainClass": "Proxy_Pattern.ProxyExample",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProfessorCoupling",
+            "request": "launch",
+            "mainClass": "Prototype_Pattern.ProfessorCoupling",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyApp",
+            "request": "launch",
+            "mainClass": "Observer_Pattern.MyApp",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MementoPattern",
+            "request": "launch",
+            "mainClass": "Memento_Pattern.MementoPattern",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MediatorDemos",
+            "request": "launch",
+            "mainClass": "Mediador_Pattern.MediatorDemos",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Iterator_Demo",
+            "request": "launch",
+            "mainClass": "Iterator_Pattern.Iterator_Demo",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterpreterExample",
+            "request": "launch",
+            "mainClass": "Interpreter_Pattern.InterpreterExample",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestFlyweight",
+            "request": "launch",
+            "mainClass": "Flyweight_Pattern.TestFlyweight",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factory_main",
+            "request": "launch",
+            "mainClass": "Factory_Pattern.Factory_main",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Decorator_Pattern.Main",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "Composite_Pattern.Client",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PressSwitch",
+            "request": "launch",
+            "mainClass": "Command_Pattern.PressSwitch",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ChainOfResponsibilityExample",
+            "request": "launch",
+            "mainClass": "ChainOfResponsibility_Pattern.ChainOfResponsibilityExample",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuilderExample",
+            "request": "launch",
+            "mainClass": "Builder_Pattern.BuilderExample",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EjemploBridge",
+            "request": "launch",
+            "mainClass": "Bridge_Pattern.EjemploBridge",
+            "projectName": "SoftwareEngineer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AdapterWrapperPattern",
+            "request": "launch",
+            "mainClass": "Adapter_Pattern.AdapterWrapperPattern",
+            "projectName": "SoftwareEngineer"
+        }
+    ]
+}
